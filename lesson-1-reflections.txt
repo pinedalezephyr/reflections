@@ -1,0 +1,66 @@
+Lesson 1.5 git and github
+3/14/18
+This was a major pain as windows did not want to run file compare
+but once I got windows to cooperate I could find problems and spelling errors 
+so conclusion: great and helpful 
+Class suggestions:
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    Yes but the file compare was much more effecient
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    I currently make daily backups of all projects so I can return to a working method.  I am a local kind of guy at this point
+	it will take time to desire to paste my work all over the internet.  Sorry but do not trust the cloud yet.  I have seen
+	that there is always someone able to crack the security online
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    With git I can save for others to review.  I prefer to use local back up of whole project 
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Since I currently save files on a complete basis once or twice a day until final done eaither will work
+
+How can you use the commands git log and git diff to view the history of files?
+
+    There are just online versions of the local file compare and notepad ++ compare
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Because it is easier to return to functioning program
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Current project that I an building for a website
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?     
+    
+    I personally prefer to manually save and have choice as to timing of saves. Automatic saves are fine if you have the ability to set the save timing and place.  
+	
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+    The allowing of multiple files allow a better tracking system as the code becomes more volumetric and complicated.  It allows one to look at the whole not the parts when 
+    tracking errors of changes. 
+
+
+How can you use the commands git log and git diff to view the history of files?	
+    
+     The commands for git log gives the history and git diff lets you see the changes. It works fine but to be honest git is like going back in history
+     working with DOS as all commands must be exact as it expects or just cannot understand.  This same thing can be done in Android Studio with proper training. 
+
+How might using version control make you more confident to make changes that could break something?
+     
+     Again this is like working in dos but I love the fact that the local repository can be reverted and allow you to test older version without affecting current changes
+     in program.  Great for keeping working file safe!	
+
+Now that you have your workspace set up, what do you want to try using Git for?
+     
+     May use it for current project I am working for a programmer. Did not really change set up as it is fine as it is for me!
