@@ -1,3 +1,34 @@
 Lesson-2-reflections
 What happens when you initialize a repository? Why do you need to do it?
+	
 	it creates a .git directory and you need it to keep track of revisions. 
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+       
+	Staging area is the initial area within git to define what should go into the respository!  The working directory is basiclly area that you make your commits to.
+	The respository is the area that git holds the changes.  
+	
+How can you use the staging area to make sure yuou have one commit per logical change
+
+	By only adding the file you have worked on.  You can use hard reset if you have the file in staging 
+	area and them want to clear another file.  
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+	
+	The branches work best when you are working on a different version of your app.  Like Master class verse novice class
+	also when sharing you app, as you can only share what you want not necessarly the whole app. 
+
+How do the diagrams help you visualize the branch structure?
+
+	As I am a paper person they help me to visualize where things are going and where they belong
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+	it did not merge and when I followed your instructions on how to fix crashed whole program and will not run
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+	Pros are more control
+	cons are more time consuming.  
+
